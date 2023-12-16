@@ -3,17 +3,31 @@ Repository with dashboards created by me using Power BI.
 
 ## The following projects were created during Alura's Power BI Training
 
-### 1) Project "Gatito Petshop" (fictional enterprise):
+### 1) Project "Gatito Petshop":
 
-![DASHBOARD GATITO PETSHOP](images/gatito.png "Dashboard Gatito Petshop")
 
-### 2) Project "Buscante" (fictional e-commerce):
 
-Page 1
+https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/d608e640-9ac5-4f51-9c65-4e50afc84b2c
 
-![DASHBOARD BUSCANTE ECOMMERCE](images/buscante_ecommerce.png "Dashboard Buscante 1")
 
-Page 2
 
-![DASHBOARD BUSCANTE VENDAS](images/buscante_vendas.png "Dashboard Buscante 2")
+### 2) Project "Buscante"- Part 1:
+
+https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/d6a66077-a0ea-400e-90bb-cb9c830876f5
+
+### 3) Project "Buscante" - Part 2:
+
+The template was also made by me.
+
+https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/cc1616f8-6b17-434f-97a4-7db8b5a1f5a5
+
+
+
+### 4) Project E-commerce in Brazil:
+
+
+https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/287857b6-7cf4-476e-ac5f-f57ad69ba41b
+
+
+
 
