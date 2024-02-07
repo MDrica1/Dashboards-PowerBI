@@ -28,6 +28,10 @@ https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/cc1616f8-6b17-434
 
 https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/287857b6-7cf4-476e-ac5f-f57ad69ba41b
 
+### 5) technical test "Banco Victória":
+
+https://github.com/MDrica1/Dashboards-PowerBI/assets/124187063/
+
 
 
 
